@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "testmod",
+    "name": "Test Mod",
+    "description": "Somnia Stellarum's first test mod",
+    "version": "1.0",
+    "mcversion": "1.11.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Somnia Stellarum"
+    ],
+    "credits": "Thanks to Pahimar's Tutorial. Take it easy!",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
